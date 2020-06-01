@@ -5,4 +5,4 @@ This repository serves as a common place for storing samples of the expenditure 
 If files written in this repository does not contain any information about a corresponding license, they are distributed according to the rules of [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). Otherwise, the respective license attached to a given project has precedence.
 
 ## Table of contents
-* [Portfolio of personal projects]() - A document presenting my selected private projects created until 2017.
+* [Portfolio of Personal Projects](/Portfolio of Personal Projects.pdf) - A document presenting my selected private projects created until 2017.
